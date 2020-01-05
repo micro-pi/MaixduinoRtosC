@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "span": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "jlt32009a.h": "c",
+        "project_cfg.h": "c",
+        "pin_cfg.h": "c",
+        "stdint.h": "c"
+    }
+}
